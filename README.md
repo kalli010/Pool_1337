@@ -19,15 +19,14 @@ Throughout the modules, I tackled various aspects of C programming, from basics 
 - Focus: Shell programming challenges.
 - Evaluation: Automatic and peer-reviewed.
 
-### C Piscine C 06 to C 00
-
-- Success Rate: 100%
+### C Piscine C 00 to C 06
+- Success Rate: 100%, 100%, 85%, 100%, 100%, 80% & 100%
 - Various programming challenges ranging from beginner to advanced levels.
 - Each module designed to enhance a particular aspect of programming in C.
 
 ### C Piscine C 07
 
-- Success Rate: 100%
+- Success Rate: 60%
 - Description: Consolidation of C programming skills with different algorithms.
 - Keywords: General, Imperative programming & Algorithms.
 
