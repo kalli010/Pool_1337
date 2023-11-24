@@ -11,14 +11,12 @@ Throughout the modules, I tackled various aspects of C programming, from basics 
 
 - Success Rate: 100%
 - Focus: Introduction to Shell scripting.
-- Success Rate: 97%
 - Evaluation: Automatic and peer-reviewed.
 
 ### C Piscine Shell 01
 
 - Success Rate: 100%
 - Focus: Shell programming challenges.
-- Success Rate: 100%
 - Evaluation: Automatic and peer-reviewed.
 
 ### C Piscine C 06 to C 00
