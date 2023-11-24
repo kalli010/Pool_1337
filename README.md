@@ -47,7 +47,7 @@ Throughout the modules, I tackled various aspects of C programming, from basics 
 The projects were attempted by a large number of students and had a high success rate. The evaluations were conducted by MOULINETTE and were complemented with peer reviews.
 
 ## Skills Acquired
-- - **C Language Proficiency:** Mastery of C syntax and advanced features.
+- **C Language Proficiency:** Mastery of C syntax and advanced features.
 - **Algorithm Design:** Ability to create efficient, reliable algorithms.
 - **Data Structures:** Knowledge of various data structures and their applications.
 - **Debugging and Testing:** Skills to identify and fix bugs effectively.
